@@ -1,5 +1,5 @@
 # FastAPI Demo Pipeline
-
+![Docker & Kubernetes Workflow](images/fastapi.png)
 Hey there! 👋 I'm excited to share an end-to-end example that walks you through:
 
 1. **Writing** a simple FastAPI server with health, GET, and POST endpoints
@@ -84,19 +84,6 @@ curl http://localhost:8000/
    curl http://localhost/user/111
    # or via NodePort/LoadBalancer external IP
    ```
-
----
-
-## 🖼️ Adding Images
-
-To include images in this README, create an `images/` folder and add your files there. Then reference them with standard Markdown:
-
-```markdown
-![Architecture Diagram](images/architecture.png)
-```
-
-Adjust the path or filename to whatever you’ve added. Commit the `images/` folder so it travels with your docs!
-
 ---
 
 ## ✨ CI/CD Automation (Bonus)
