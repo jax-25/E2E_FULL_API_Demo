@@ -28,7 +28,7 @@ Hey there! 👋 I'm excited to share an end-to-end example that walks you throug
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/fastapi-demo.git
+git clone https://github.com/jax-25/fastapi-demo.git
 cd fastapi-demo
 ```
 
