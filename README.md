@@ -10,6 +10,9 @@ Hey there! 👋 I'm excited to share an end-to-end example that walks you throug
 6. (Bonus) **Automating** the whole flow with a CI/CD pipeline
 
 ---
+## Pipeline Architecture
+
+![Docker & Kubernetes Workflow](images/dockkuber.jpg)
 
 ## 📋 Prerequisites
 
